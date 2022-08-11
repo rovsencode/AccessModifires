@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\TaskAccessModifires\TaskAccessModifires\bin\Debug\netcoreapp3.1\TaskAccessModifires.exe
+C:\Users\HP\Desktop\TaskAccessModifires\TaskAccessModifires\bin\Debug\netcoreapp3.1\TaskAccessModifires.deps.json
+C:\Users\HP\Desktop\TaskAccessModifires\TaskAccessModifires\bin\Debug\netcoreapp3.1\TaskAccessModifires.runtimeconfig.json
+C:\Users\HP\Desktop\TaskAccessModifires\TaskAccessModifires\bin\Debug\netcoreapp3.1\TaskAccessModifires.runtimeconfig.dev.json
+C:\Users\HP\Desktop\TaskAccessModifires\TaskAccessModifires\bin\Debug\netcoreapp3.1\TaskAccessModifires.dll
+C:\Users\HP\Desktop\TaskAccessModifires\TaskAccessModifires\bin\Debug\netcoreapp3.1\TaskAccessModifires.pdb
+C:\Users\HP\Desktop\TaskAccessModifires\TaskAccessModifires\obj\Debug\netcoreapp3.1\TaskAccessModifires.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\TaskAccessModifires\TaskAccessModifires\obj\Debug\netcoreapp3.1\TaskAccessModifires.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\TaskAccessModifires\TaskAccessModifires\obj\Debug\netcoreapp3.1\TaskAccessModifires.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\TaskAccessModifires\TaskAccessModifires\obj\Debug\netcoreapp3.1\TaskAccessModifires.AssemblyInfo.cs
+C:\Users\HP\Desktop\TaskAccessModifires\TaskAccessModifires\obj\Debug\netcoreapp3.1\TaskAccessModifires.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\TaskAccessModifires\TaskAccessModifires\obj\Debug\netcoreapp3.1\TaskAccessModifires.dll
+C:\Users\HP\Desktop\TaskAccessModifires\TaskAccessModifires\obj\Debug\netcoreapp3.1\TaskAccessModifires.pdb
+C:\Users\HP\Desktop\TaskAccessModifires\TaskAccessModifires\obj\Debug\netcoreapp3.1\TaskAccessModifires.genruntimeconfig.cache
